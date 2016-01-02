@@ -1,0 +1,19 @@
+{
+  "name": "ml-ng2-grid",
+  "email": "maxlun86@gmail.com",
+  "author": "Maksim Lunochkin",
+  "version" : "0.0.0",
+  "description": "Angular2 grid",
+  "keywords": [
+    "angular2",
+    "grid"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/maxlun86/ml-ng2-grid",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/maxlun86/ml-ng2-grid.git"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
