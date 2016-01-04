@@ -2,7 +2,7 @@
   "name": "ml-ng2-grid",
   "email": "maxlun86@gmail.com",
   "author": "Maksim Lunochkin",
-  "version" : "0.0.0",
+  "version": "0.0.0",
   "description": "Angular2 grid",
   "keywords": [
     "angular2",
@@ -15,5 +15,13 @@
     "url": "https://github.com/maxlun86/ml-ng2-grid.git"
   },
   "dependencies": {},
-  "devDependencies": {}
+  "devDependencies": {
+    "angular2": "^2.0.0-beta.0",
+    "es6-promise": "^3.0.2",
+    "es6-shim": "^0.33.3",
+    "reflect-metadata": "^0.1.2",
+    "rxjs": "^5.0.0-beta.0",
+    "typescript": "^1.8.0-dev.0",
+    "zone.js": "^0.5.10"
+  }
 }
