@@ -1,0 +1,52 @@
+.ml-ng2-grid {
+	font-size: 12px;
+}
+
+.ml-ng2-grid-header {
+
+}
+
+.ml-ng2-grid-row {
+}
+
+.ml-ng2-grid-header-row {
+}
+
+.ml-ng2-grid-header-row, .ml-ng2-grid-row {
+	overflow: hidden;
+}
+
+.ml-ng2-grid-header-cell, .ml-ng2-grid-cell {
+	float: left;
+	height: 50px;
+	line-height: 20px;
+	border-collapse: collapse;
+	border-left: 1px solid #eceeef;
+	border-bottom: 1px solid #eceeef;
+	padding: 5px;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	white-space: nowrap;
+	box-sizing: border-box;
+}
+
+.ml-ng2-grid-header-cell {
+	border-top: 1px solid #eceeef;
+}
+
+.ml-ng2-grid-header-cell:last-child, .ml-ng2-grid-cell:last-child {
+	border-right: 1px solid #eceeef;
+}
+
+.ml-ng2-grid-header-cell {
+	background: white;
+	font-weight: bold;
+}
+
+.ml-ng2-grid-row:nth-of-type(odd) .ml-ng2-grid-cell {
+	background: #f9f9f9;
+}
+
+.ml-ng2-grid-row:nth-of-type(even) .ml-ng2-grid-cell {
+	background: white;
+}
